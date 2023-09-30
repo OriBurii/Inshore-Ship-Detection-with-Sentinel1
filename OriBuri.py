@@ -1,6 +1,6 @@
 ######################################################################
 ######                                                               #
-######    SIPAS (SAR Image Processing & Application Software)        #
+######    OriBuri : SAR Image Processing & Application Software      #
 ######    Copyright(c) 2023 GEO-CODING, All rights reserved.         #
 ######                   Sejong Univ. earthresource engineering,     #
 ######                   Republic of Korea, Seoul                    #
