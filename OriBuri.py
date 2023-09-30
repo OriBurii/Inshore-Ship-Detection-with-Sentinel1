@@ -1,17 +1,3 @@
-######################################################################
-######                                                               #
-######    OriBuri : SAR Image Processing & Application Software      #
-######    Copyright(c) 2023 GEO-CODING, All rights reserved.         #
-######                   Sejong Univ. earthresource engineering,     #
-######                   Republic of Korea, Seoul                    #
-######                                                               #
-######    last update : 2023.07.15                                   #
-######                                                               #
-######    Members:                                                   #
-######     Seungjun, Lee (Energy resource engineering)               #
-######                                                               #
-######################################################################
-
 import rasterio
 import numpy as np
 import matplotlib.pyplot as plt
